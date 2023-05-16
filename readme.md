@@ -2,9 +2,9 @@
 <h1 align="center">Hello 👋, I'm Ankit Sharma 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Ankit Sharma.I have a keen interest in Web Development and have a huge fascination that How coding could be used to solve real world problems from the technology such as AI/ML, Cyber security , etc.</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coding" width="300" src="<div class="tenor-gif-embed" data-postid="25956246" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/who-asked-gif-25956246">Who Asked GIF</a>from <a href="https://tenor.com/search/who+asked-gifs">Who Asked GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+## <img src="<div class="tenor-gif-embed" data-postid="25956246" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/who-asked-gif-25956246">Who Asked GIF</a>from <a href="https://tenor.com/search/who+asked-gifs">Who Asked GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Coding Skills.**
 - 🌱 I’m currently learning **Web Development and DSA.**
