@@ -3,7 +3,7 @@ I am <b>Ankit Sharma</b>, thanks for taking the time to read my github profile! 
 
 
 <p align="center">
-    <!-- <a href="https://app.daily.dev/dgbkn"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="30%" alt="dev_goyal_'s Dev Card"/></a> -->
+    <!-- <a href="https://app.daily.dev/0504ankitsharma"><img src="https://api.daily.dev/devcards/d919498fffbf4f53b1f222095885b332.png?r=yj6" width="30%" alt="dev_goyal_'s Dev Card"/></a> -->
     
     
 <a href="https://newflixy.web.app">
@@ -15,7 +15,7 @@ I am <b>Ankit Sharma</b>, thanks for taking the time to read my github profile! 
     <br>
 
  <p align="center">
-    <a href="https://github.com/dgbkn"> <img src="https://img.shields.io/github/followers/dgbkn?label=Follow&logo=github&color=7289da&style=for-the-badge"></a>    
+    <a href="https://github.com/0504ankitsharma"> <img src="https://img.shields.io/github/followers/0504ankitsharma?label=Follow&logo=github&color=7289da&style=for-the-badge"></a>    
  <a href="https://allsites.pages.dev"> <img src="https://img.shields.io/badge/My%20Works-passing-brightgreen"></a>
 </p>
 
@@ -72,9 +72,9 @@ I'm an *Undergrad Student🎓 [@Thapar University](https://www.thaper.edu)* purs
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgbkn&label=Profile%20views&color=0e75b6&style=flat" alt="dgbkn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0504ankitsharma&label=Profile%20views&color=0e75b6&style=flat" alt="0504ankitsharma" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=dgbkn" alt="dgbkn" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=0504ankitsharma" alt="0504ankitsharma" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devgbkn" target="blank"><img src="https://img.shields.io/twitter/follow/devgbkn?logo=twitter&style=for-the-badge" alt="devgbkn" /></a> </p>
 
