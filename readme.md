@@ -2,10 +2,6 @@
 <h1 align="center">Hello 👋, I'm Ankit Sharma 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Ankit Sharma.I have a keen interest in Web Development and have a huge fascination that How coding could be used to solve real world problems from the technology such as AI/ML, Cyber security , etc.</h3>
 
-<img align="right" alt="coding" width="300" src="<div class="tenor-gif-embed" data-postid="25956246" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/who-asked-gif-25956246">Who Asked GIF</a>from <a href="https://tenor.com/search/who+asked-gifs">Who Asked GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
-
-## <img src="<div class="tenor-gif-embed" data-postid="25956246" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/who-asked-gif-25956246">Who Asked GIF</a>from <a href="https://tenor.com/search/who+asked-gifs">Who Asked GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="40"> **About Me:**
-
 - 🔭 I’m currently working on **Coding Skills.**
 - 🌱 I’m currently learning **Web Development and DSA.**
 - 👯 I’m looking to collaborate on **Python and Web Dev Projects.**
@@ -27,8 +23,8 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/0504ankitsharma" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="0504ankitsharma" /></a>
-<a href="https://github.com/0504ankitsharma" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="0504ankitsharma" /></a>
-<a href="mailto:crazy0504ankitsharma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="0504ankitsharma" /></a>
+<a href="ankitsharma.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="0504ankitsharma" /></a>
+<a href="mailto: 0504ankitsharma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="0504ankitsharma" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0504ankitsharma&label=Visitors&color=0088cc&style=flat-square" alt="0504ankitsharma" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
