@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Coding Skills.**
 - 🌱 I’m currently learning **Web Development and DSA.**
 - 👯 I’m looking to collaborate on **Python and Web Dev Projects.**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/0504ankitsharma?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="0504ankitsharma" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at "https://github.com/0504ankitsharma
 - 💬 Ask me about **C, C++ , HTML,CSS, javascript ,python , reactjs, solidjs and Django.**
 
 <p align="center">
