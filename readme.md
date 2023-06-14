@@ -57,6 +57,6 @@
 	    <br />
 	</ul>
 </details>
-
----
-[![](https://visitcount.itsvg.in/api?id=0504ankitsharma&icon=2&color=9)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=0504ankitsharma&label=Profile%20Views&color=1&pretty=false" />
+</a>
