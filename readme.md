@@ -19,20 +19,6 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/0504ankitsharma">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=0504ankitsharma&show_icons=true&theme=radical&count_private=true">
-  </a>
- </p>
-</details>
-
-<details>
-
-
-
-<details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
