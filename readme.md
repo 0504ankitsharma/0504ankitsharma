@@ -36,14 +36,7 @@
 </details>
 
 <details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=0504ankitsharma&column=8&theme=darkhub"/>
-  </a>
- </p>
-</details>
+
 
 
 <details>
