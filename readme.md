@@ -8,10 +8,6 @@
 - 👨‍💻 All of my projects are available at "https://github.com/0504ankitsharma"
 - 💬 Ask me about **C, C++ , HTML,CSS, javascript ,python , reactjs, solidjs and Django.**
 
-<p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0504ankitsharma&theme=radical&hide_border=true"/>
-</p>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
