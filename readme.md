@@ -16,9 +16,6 @@
 <a href="mailto: 0504ankitsharma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="0504ankitsharma" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0504ankitsharma&label=Visitors&color=0088cc&style=flat-square" alt="0504ankitsharma" /> </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-<details>
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
