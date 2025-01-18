@@ -1,31 +1,71 @@
+# 👋 Hey there, I'm Ankit Sharma! 
 
-<h1 align="center">Hello 👋, I'm Ankit Sharma 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Ankit Sharma.I have a keen interest in Web Development and have a huge fascination that How coding could be used to solve real world problems from the technology such as AI/ML, Cyber security , etc.</h3>
+Welcome to my GitHub profile! 🚀 A passionate **Frontend & AI Software Developer** with a knack for creating innovative solutions that blend **Generative AI**, **Full Stack Development**, and **Machine Learning** into impactful projects. 🌟
 
-- 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **Web Development and DSA.**
-- 👯 I’m looking to collaborate on **Python and Web Dev Projects.**
-- 👨‍💻 All of my projects are available at "https://github.com/0504ankitsharma"
-- 💬 Ask me about **C, C++ , HTML,CSS, javascript ,python , reactjs, solidjs and Django.**
+---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
+## 💡 About Me
 
-<p align="center">
-<a href="https://linkedin.com/in/0504ankitsharma" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="0504ankitsharma" /></a>
-<a href="ankitsharma.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="0504ankitsharma" /></a>
-<a href="mailto: 0504ankitsharma@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="0504ankitsharma" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0504ankitsharma&label=Visitors&color=0088cc&style=flat-square" alt="0504ankitsharma" /> </p>
+- 🎓 **Computer Engineering Student** at **Thapar Institute of Engineering and Technology** ('26).
+- 🌐 Generative AI Intern @CodeAsia | **Frontend & AI Software Developer Intern** @Fretbox.
+- 🛠️ Joint Secretary @ **Linux User Group (TIET)** \- Empowering the open-source community.
+- 🤝 Mentoring in **Cybersecurity**, **Full Stack Development**, and **AI/ML**.
+- 🌱 Exploring **Federated Learning**, **Nuxt.js**, and **AI-Driven Solutions**.
 
-  <br />
-  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
-  	<ul>
-		<li><b>OS:</b> Windows 10 </li>
-  	   <li><b>Browser: </b> Microsoft Edge Web Browser</li>
-	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Linkedin </li>
-	    <br />
-	</ul>
-</details>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=0504ankitsharma&label=Profile%20Views&color=1&pretty=false" />
-</a>
+---
+
+## 🔧 Technologies & Tools
+
+**Languages**:  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+
+**Frameworks & Libraries**:  
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**:  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Other Tools**:  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white)
+
+---
+
+## 🌟 Highlights
+
+### 🎯 **ThaparGPT** [🔗](http://thapargpt.vercel.app)
+- 🚀 Integrated and tested multiple LLMs for optimized chatbot performance.
+- 🔧 Built a full-stack app using **Nuxt.js** & **FastAPI** for a seamless user experience.
+- 📚 Utilized **RAG architecture** with LangChain & Pinecone for accurate, context-aware responses.
+
+### 💬 **UDP Client-Server Chat App** [🔗](https://github.com/0504ankitsharma/UDP-Client-Server-Chat-Application)
+- 🔄 Developed a UDP-based chat app with real-time messaging & timestamped interactions.
+- 🎨 Designed a GUI using GTK+ 3.0 for enhanced usability.
+
+### 🤝 **Linux User Group (TIET)**
+- 🌟 Initiated open-source workshops and awareness campaigns for **GSoC**.
+- 🔍 Led hands-on sessions on Git/GitHub, GenAI, and Full Stack Development.
+
+---
+
+## 🎨 My GitHub Stats
+
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0504ankitsharma&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0504ankitsharma&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0504ankitsharma)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0504ankitsharma/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asharma15_be22@thapar.edu)
+
+---
+
+## 🌀 Fun Fact
+
+Did you know? I'm always exploring new technologies, and my latest passion is integrating **AI with Frontend Development** to create user-centric experiences! ✨
+
+---
+
+### 🌟 "Turning Dreams into Code, One Commit at a Time." 🌟
