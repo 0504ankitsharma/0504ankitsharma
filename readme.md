@@ -1,79 +1,251 @@
-# 👋 Hello, I'm **Ankit Sharma**
+<!-- Custom SVG Header Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ankit%20Sharma&fontSize=80&color=0:0366d6,100:00B4DB&desc=Building%20the%20Future%20of%20Technology&descAlignY=65&descSize=25&animation=fadeIn" />
+</div>
 
-🚀 Welcome to my GitHub profile! I am a passionate **Frontend & AI Software Developer**, constantly pushing the boundaries of **Generative AI**, **Full Stack Development**, and **Machine Learning** to create impactful solutions. 
+<!-- Dynamic Subtitle -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&multiline=true&width=600&height=75&lines=Software+Engineer+%7C+AI+Developer+%7C+Researcher;Transforming+Ideas+into+Scalable+Solutions" />
+  </a>
+</p>
 
----
+<!-- Innovative About Section -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-## 🌟 About Me
+<br>
 
-- 🎓 **Computer Engineering Student** at **Thapar Institute of Engineering and Technology**, Class of 2026.  
-- 💡 **Internships**:
-  - Generative AI Intern @ **CodeAsia**  
-  - Frontend & AI Software Developer Intern @ **FretBox**
-- 🤝 **Open-Source Advocate**: Joint Secretary of **Linux User Group (TIET)**, empowering students to contribute to open source.
-- 🧠 Currently exploring **Federated Learning**, **Nuxt.js**, and **AI-driven innovations**.
+<!-- Professional Journey Section -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Professional+Journey">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Professional+Journey">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Professional+Journey" />
+  </picture>
+</div>
 
----
+<br>
 
-## 💻 Skills
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">AICTE Software Engineer Intern</h3>
+<div align="center">
+  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-Real%20Time%20Systems-0366D6?style=for-the-badge" /></a>
+  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-Scalable%20Architecture-0366D6?style=for-the-badge" /></a>
 
-### **Programming Languages**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+```python
+class AICTERole:
+    def __init__(self):
+        self.position = "Software Engineer Intern"
+        self.duration = "Dec 2024 - Present"
+        
+    def achievements(self):
+        return {
+            "🚀 Performance": """
+                • Optimized middleware for 4M msgs/sec
+                • Stack: Erlang, Elixir, FreeBSD
+            """,
+            "🔄 Integration": """
+                • WebRTC video calling in React Native
+                • Cross-platform compatibility
+            """
+        }
+```
+</div>
+</td>
 
-### **Frameworks & Libraries**  
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<td width="50%">
+<h3 align="center">FretBox AI Developer</h3>
+<div align="center">
+  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-AI%20Integration-0366D6?style=for-the-badge" /></a>
+  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Optimization-0366D6?style=for-the-badge" /></a>
 
-### **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+```python
+class FretBoxRole:
+    def __init__(self):
+        self.position = "Frontend & AI Developer"
+        self.duration = "Aug 2024 - Sep 2024"
+        
+    def impacts(self):
+        return {
+            "⚡ Performance": """
+                • 40% reduction in load times
+                • 35% faster data visualization
+            """,
+            "🤖 AI Features": """
+                • 30% boost in user engagement
+                • Enhanced user experience
+            """
+        }
+```
+</div>
+</td>
+</tr>
+</table>
 
-### **Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white)
+<!-- Research & Innovation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Research+%26+Innovation">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Research+%26+Innovation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Research+%26+Innovation" />
+  </picture>
+</div>
 
----
+<br>
 
-## 🚀 Experience
+<table>
+<tr>
+<td>
+<div align="center">
+<h3>🧬 Federated Learning Research</h3>
+<img src="https://img.shields.io/badge/-Healthcare%20ML-0366D6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Decentralized%20Systems-0366D6?style=for-the-badge" />
 
-### **Software Engineer Intern**
-- **AICTE (All India Council for Technical Education)**, Delhi HQ  
-  🗓️ December 2024 – Present  
-  - ⚡ Optimized middleware handling 4M messages/sec with **Erlang**, **Elixir**, and **FreeBSD**.
-  - 📹 Integrated **video calling** into a React Native app using **WebRTC** and **XMPP**.
+```javascript
+const researchProject = {
+  mentors: [
+    "Dr. Anjula Mehto",
+    "Mukta Sharma"
+  ],
+  achievements: [
+    "AP2PFL method development",
+    "57% accuracy achievement",
+    "CNN feature extraction",
+    "FedAvg implementation"
+  ],
+  impact: "Advancing decentralized healthcare"
+};
+```
+</div>
+</td>
 
-### **Frontend & AI Software Developer Intern**
-- **FretBox**, Noida, Uttar Pradesh (Remote)  
-  🗓️ August 2024 – September 2024  
-  - 🚀 Reduced frontend load times by 40%.
-  - 🤖 Built 5+ AI features, boosting user engagement by 30%.
+<td>
+<div align="center">
+<h3>🤖 ThaparGPT</h3>
+<img src="https://img.shields.io/badge/-LLM%20Integration-0366D6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-RAG%20Architecture-0366D6?style=for-the-badge" />
 
----
+```javascript
+const aiProject = {
+  stack: [
+    "Nuxt.js", "Vue.js", "FastAPI"
+  ],
+  features: [
+    "Multi-LLM integration",
+    "RAG with LangChain",
+    "Vector search (Pinecone)",
+    "Context-aware responses"
+  ],
+  deployment: "thapargpt.vercel.app"
+};
+```
+</div>
+</td>
+</tr>
+</table>
 
-## 🌟 Projects
+<!-- Tech Stack Matrix -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Tech+Stack+Matrix">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Tech+Stack+Matrix">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Tech+Stack+Matrix" />
+  </picture>
+</div>
 
-### 🎯 **ThaparGPT** [🔗](http://thapargpt.vercel.app)
-- 🛠️ Built using **Nuxt.js** & **FastAPI**.
-- 🔍 Features **RAG architecture** with LangChain and Pinecone for context-aware responses.
+<br>
 
-### 💬 **UDP Client-Server Chat App** [🔗](https://github.com/0504ankitsharma/UDP-Client-Server-Chat-Application)
-- 🔄 Real-time messaging with timestamps over **UDP**.
-- 🎨 GUI designed with GTK+ 3.0 for enhanced usability.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,go&theme=dark" />
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-Frontend%20Development-000?style=for-the-badge&logoColor=white&logo=browser">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/-Frontend%20Development-fff?style=for-the-badge&logoColor=black&logo=browser">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Frontend%20Development-fff?style=for-the-badge&logoColor=black&logo=browser">
+  </picture>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,threejs&theme=dark" />
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-AI%20%26%20Machine%20Learning-000?style=for-the-badge&logoColor=white&logo=robot">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/-AI%20%26%20Machine%20Learning-fff?style=for-the-badge&logoColor=black&logo=robot">
+    <img src="https://custom-icon-badges.demolab.com/badge/-AI%20%26%20Machine%20Learning-fff?style=for-the-badge&logoColor=black&logo=robot">
+  </picture>
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /> 
+  <code style="padding:5px;">LangChain</code> 
+  <code style="padding:5px;">HuggingFace</code>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-Backend%20%26%20DevOps-000?style=for-the-badge&logoColor=white&logo=server">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/-Backend%20%26%20DevOps-fff?style=for-the-badge&logoColor=black&logo=server">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Backend%20%26%20DevOps-fff?style=for-the-badge&logoColor=black&logo=server">
+  </picture>
+  <br>
+  <img src="https://skillicons.dev/icons?i=django,docker,aws,git&theme=dark" />
+</div>
 
-### 🤝 **Linux User Group (TIET)**
-- 🌟 Promoted open-source contributions through workshops.
-- 🧑‍💻 Mentored projects in **cybersecurity** and **AI/ML**.
+<!-- Community Leadership -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Community+Leadership">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Community+Leadership">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Community+Leadership" />
+  </picture>
+</div>
 
----
+<br>
 
-## 📊 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0504ankitsharma&layout=compact&theme=radical)
+<div align="center">
+<img src="https://custom-icon-badges.demolab.com/badge/-Linux%20User%20Group%20@%20TIET-0366D6?style=for-the-badge&logoColor=white&logo=user-group" />
+</div>
 
----
+```javascript
+const leadershipRole = {
+    position: "Joint Secretary",
+    initiatives: [
+        "🚀 Led GenAI, Git/GitHub & Full Stack workshops",
+        "👥 Mentored 40+ students in tech projects",
+        "🌟 Initiated open-source awareness series",
+        "🎯 Guided GSOC preparation activities"
+    ],
+    impact: "Building a stronger tech community at TIET",
+    reach: "500+ active community members"
+};
+```
 
-## 📫 Connect with Me
+<!-- Contact Section -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Let's+Connect">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Let's+Connect">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Let's+Connect" />
+  </picture>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0504ankitsharma)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0504ankitsharma/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asharma15_be22@thapar.edu)
+<br>
 
----
+<div align="center">
+  <a href="https://linkedin.com/in/0504ankitsharma">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0366D6?style=for-the-badge&logoColor=white&logo=linkedin" />
+  </a>
+  <a href="mailto:asharma15_be22@thapar.edu">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-0366D6?style=for-the-badge&logoColor=white&logo=mail" />
+  </a>
+  <a href="https://github.com/0504ankitsharma">
+    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-0366D6?style=for-the-badge&logoColor=white&logo=github" />
+  </a>
+</div>
 
-## 🌟 "Turning Dreams into Code, One Commit at a Time!" 🌟
+<!-- Footer -->
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&
