@@ -213,7 +213,7 @@ const leadershipRole = {
     position: "Joint Secretary",
     initiatives: [
         "🚀 Led GenAI, Git/GitHub & Full Stack workshops",
-        "👥 Mentored 40+ students in tech projects",
+        "👥 Mentored 100+ students in tech projects",
         "🌟 Initiated open-source awareness series",
         "🎯 Guided GSOC preparation activities"
     ],
