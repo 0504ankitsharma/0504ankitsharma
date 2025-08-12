@@ -1,30 +1,32 @@
 <!-- =========================
      Ankit Sharma — README
-     Theme: Neon Gradient (magenta → cyan)
-     Notes: Content preserved exactly as provided.
+     Theme: MARVEL (red ✦ black ✦ bold)
+     Content: preserved exactly as provided
      ========================= -->
 
-<!-- HEADER -->
+<!-- HEADER / MARVEL STYLE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ankit%20Sharma&fontAlign=50&fontAlignY=40&color=0:ff6ec7,100:00f0ff&fontSize=80&desc=Final%20Year%20CSE%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=50&descAlignY=68&descSize=20&animation=fadeIn" alt="Ankit Sharma" />
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00f0ff&center=true&vCenter=true&width=760&lines=Final+Year+Engineer+Building+Cool+Stuff;AI+That+Actually+Works;Full+Stack+Apps+That+Scale" alt="subtitle"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ankit%20Sharma&fontAlign=50&fontAlignY=40&color=0:ed1d24,100:000000&fontSize=80&desc=Final%20Year%20CSE%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=50&descAlignY=68&descSize=20&animation=fadeIn"
+    alt="Ankit Sharma — Marvel Theme" />
+  <p align="center" style="margin-top:8px;">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=760&lines=Final+Year+Engineer+Building+Cool+Stuff;AI+That+Actually+Works;Full+Stack+Apps+That+Scale"
+      alt="subtitle" />
   </p>
 </div>
 
 <p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About-Me-ff6ec7?style=for-the-badge&logo=ghost&logoColor=white"></a>
-  <a href="#work-experience"><img src="https://img.shields.io/badge/Experience-00f0ff?style=for-the-badge&logo=briefcase&logoColor=white"></a>
-  <a href="#signature-projects"><img src="https://img.shields.io/badge/Projects-ff6ec7?style=for-the-badge&logo=rocket&logoColor=white"></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-00f0ff?style=for-the-badge&logo=tools&logoColor=white"></a>
-  <a href="#lets-connect"><img src="https://img.shields.io/badge/Contact-ff6ec7?style=for-the-badge&logo=mail&logoColor=white"></a>
+  <a href="#about"><img src="https://img.shields.io/badge/About-ED1D24?style=for-the-badge&logo=ghost&logoColor=white"></a>
+  <a href="#work-experience"><img src="https://img.shields.io/badge/Experience-000000?style=for-the-badge&logo=briefcase&logoColor=white"></a>
+  <a href="#signature-projects"><img src="https://img.shields.io/badge/Projects-ED1D24?style=for-the-badge&logo=rocket&logoColor=white"></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-000000?style=for-the-badge&logo=tools&logoColor=white"></a>
+  <a href="#lets-connect"><img src="https://img.shields.io/badge/Contact-ED1D24?style=for-the-badge&logo=mail&logoColor=white"></a>
 </p>
 
----
-
-<!-- GRADIENT DIVIDER -->
+<!-- MARVEL DIVIDER -->
 <p align="center">
-  <img alt="gradient-divider" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/gradient-1.png" width="100%" />
+  <img alt="marvel-divider" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/gradient-3.png" width="100%" />
 </p>
 
 ## ⚡ About Me
@@ -43,8 +45,8 @@ I work at the crossroads of **AI, full-stack development, and scalable systems**
   <tr>
 
     <td valign="top" width="50%" style="padding: 10px;">
-      <div style="border-radius:14px; padding:16px; background: linear-gradient(130deg, rgba(255,110,199,0.06), rgba(0,240,255,0.02)); box-shadow: 0 6px 18px rgba(0,0,0,0.12);">
-        <h3 style="margin:6px 0;">🚀 AICTE (Delhi HQ) — Software Engineering Intern</h3>
+      <div style="border-radius:12px; padding:16px; background: linear-gradient(180deg, rgba(237,29,36,0.06), rgba(0,0,0,0.02)); box-shadow: 0 8px 24px rgba(0,0,0,0.18);">
+        <h3 style="margin:6px 0; color:#ed1d24;">🚀 AICTE (Delhi HQ) — Software Engineering Intern</h3>
         <p style="margin:4px 0; font-weight:600;">Dec 2024 – Jan 2025</p>
         <ul>
           <li>Contributed to development and testing of a <strong>real-time messaging middleware</strong> using Erlang, Elixir, and FreeBSD.</li>
@@ -56,8 +58,8 @@ I work at the crossroads of **AI, full-stack development, and scalable systems**
     </td>
 
     <td valign="top" width="50%" style="padding: 10px;">
-      <div style="border-radius:14px; padding:16px; background: linear-gradient(130deg, rgba(0,240,255,0.03), rgba(255,110,199,0.02)); box-shadow: 0 6px 18px rgba(0,0,0,0.12);">
-        <h3 style="margin:6px 0;">🤖 Binary Technologies (Fretbox) — AI Developer Intern</h3>
+      <div style="border-radius:12px; padding:16px; background: linear-gradient(180deg, rgba(0,0,0,0.03), rgba(237,29,36,0.02)); box-shadow: 0 8px 24px rgba(0,0,0,0.18);">
+        <h3 style="margin:6px 0; color:#ed1d24;">🤖 Binary Technologies (Fretbox) — AI Developer Intern</h3>
         <p style="margin:4px 0; font-weight:600;">Aug 2024 – Nov 2024</p>
         <ul>
           <li>Enhanced <strong>React.js frontend performance</strong> for key modules, reducing page load time by <strong>40%</strong>.</li>
@@ -76,7 +78,7 @@ I work at the crossroads of **AI, full-stack development, and scalable systems**
 ---
 
 ## 🚀 Signature Projects
-*(All project descriptions kept exactly as in resume — live links included)*
+*(Content preserved exactly — live links included)*
 
 ### 🩵 **ThaparGPT** — AI-Powered Campus Chatbot  
 **Nuxt.js · Vue.js · FastAPI · LangChain · Pinecone · Firebase**  
@@ -103,7 +105,7 @@ I work at the crossroads of **AI, full-stack development, and scalable systems**
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,go,react,vue,nextjs,nuxtjs,tailwind,nodejs,express,django,tensorflow,pytorch,mongodb,postgresql,mysql,docker,aws,git&theme=dark" alt="tech icons"/>
-  <p style="opacity:0.85; margin-top:8px;">Languages · Frontend · Backend & AI · Databases · DevOps</p>
+  <p style="opacity:0.9; margin-top:8px;">Languages · Frontend · Backend & AI · Databases · DevOps</p>
 </div>
 
 ---
@@ -118,15 +120,15 @@ I work at the crossroads of **AI, full-stack development, and scalable systems**
 
 ## 📬 Let’s Connect
 <p align="center">
-  <a href="https://linkedin.com/in/0504ankitsharma"><img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:0504ankitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/0504ankitsharma"><img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://linkedin.com/in/0504ankitsharma"><img src="https://img.shields.io/badge/LinkedIn-ED1D24?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:0504ankitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-ED1D24?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/0504ankitsharma"><img src="https://img.shields.io/badge/GitHub-ED1D24?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:ff6ec7,100:00f0ff&section=footer" alt="wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:ed1d24,100:000000&section=footer" alt="wave"/>
   <br>
-  <small style="opacity:0.7">Made with ☕ + ⚡ — content preserved from official resume.</small>
+  <small style="opacity:0.75">Assembled like an Avenger — content preserved from official resume.</small>
 </p>
