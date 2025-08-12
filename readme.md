@@ -1,251 +1,120 @@
-<!-- Custom SVG Header Animation -->
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ankit%20Sharma&fontSize=80&color=0:0366d6,100:00B4DB&desc=Building%20the%20Future%20of%20Technology&descAlignY=65&descSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ankit%20Sharma&fontSize=80&color=0:0366d6,100:00B4DB&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Researcher&descAlignY=65&descSize=22&animation=fadeIn" />
 </div>
 
-<!-- Dynamic Subtitle -->
+<!-- DYNAMIC SUBTITLE -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&multiline=true&width=600&height=75&lines=Software+Engineer+%7C+AI+Developer+%7C+Researcher;Transforming+Ideas+into+Scalable+Solutions" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=650&lines=Turning+Ideas+into+Scalable+Solutions;Full+Stack+Developer+%7C+Generative+AI+Specialist;Researcher+in+Federated+Learning+and+LLMs" />
 </p>
 
-<!-- Innovative About Section -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br>
+---
 
-<!-- Professional Journey Section -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Professional+Journey">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Professional+Journey">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Professional+Journey" />
-  </picture>
-</div>
+## 🚀 About Me
+I’m **Ankit Sharma**, a pre-final year Computer Engineering student at **Thapar Institute of Engineering & Technology**, passionate about building **scalable applications**, integrating **Generative AI**, and conducting research in **Federated Learning**.
 
-<br>
+📌 **Core Expertise:** Full Stack Development, AI/ML, Generative AI, RAG Architecture, Cloud Deployments.
+
+---
+
+## 💼 Professional Experience
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">AICTE Software Engineer Intern</h3>
-<div align="center">
-  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-Real%20Time%20Systems-0366D6?style=for-the-badge" /></a>
-  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-Scalable%20Architecture-0366D6?style=for-the-badge" /></a>
 
-```python
-class AICTERole:
-    def __init__(self):
-        self.position = "Software Engineer Intern"
-        self.duration = "Dec 2024 - Present"
-        
-    def achievements(self):
-        return {
-            "🚀 Performance": """
-                • Optimized middleware for 4M msgs/sec
-                • Stack: Erlang, Elixir, FreeBSD
-            """,
-            "🔄 Integration": """
-                • WebRTC video calling in React Native
-                • Cross-platform compatibility
-            """
-        }
-```
-</div>
+### **AICTE (Delhi HQ) — Software Engineering Intern**
+*Dec 2024 – Jan 2025*
+- Developed a **real-time messaging middleware** using Erlang, Elixir & FreeBSD.
+- Integrated **WebRTC video calling** in a cross-platform React Native app.
+- Wrote & debugged **XMPP modules** for distributed routing.
+- Benchmarked performance for **4M+ messages/sec**.
+
 </td>
-
 <td width="50%">
-<h3 align="center">FretBox AI Developer</h3>
-<div align="center">
-  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-AI%20Integration-0366D6?style=for-the-badge" /></a>
-  <a href="javascript:void(0);" target="_blank"><img src="https://img.shields.io/badge/-Frontend%20Optimization-0366D6?style=for-the-badge" /></a>
 
-```python
-class FretBoxRole:
-    def __init__(self):
-        self.position = "Frontend & AI Developer"
-        self.duration = "Aug 2024 - Sep 2024"
-        
-    def impacts(self):
-        return {
-            "⚡ Performance": """
-                • 40% reduction in load times
-                • 35% faster data visualization
-            """,
-            "🤖 AI Features": """
-                • 30% boost in user engagement
-                • Enhanced user experience
-            """
-        }
-```
-</div>
+### **Binary Technologies (Fretbox) — AI Developer Intern**
+*Aug 2024 – Nov 2024*
+- Reduced **frontend load time by 40%** in React.js modules.
+- Built **AI-powered automation features** for residential & hostel workflows.
+- Improved **data visualization performance by 35%**.
+- Boosted user engagement by **30%** via intelligent UI elements.
+
 </td>
 </tr>
 </table>
 
-<!-- Research & Innovation -->
+---
+
+## 🧪 Research & Innovation
+
+### **Federated Learning for Healthcare**
+- Mentors: *Dr. Anjula Mehto* & *Mukta Sharma*.
+- Designed **AP2PFL** method for decentralized healthcare data.
+- Implemented **CNN-based feature extraction** + **FedAvg aggregation**.
+- Achieved **57% accuracy**, outperforming baseline FL models.
+
+### **ThaparGPT — LLM-Powered Campus Chatbot**
+- Tech Stack: `Nuxt.js` `Vue.js` `FastAPI` `LangChain` `Pinecone` `Firebase`
+- Integrated multiple LLMs (**OpenAI, Anthropic, Groq, Gemini, Mistral, Phi-3**).
+- Built **RAG pipeline** for context-aware query responses.
+- Deployed on [Vercel](https://thapargpt.vercel.app) & Hugging Face.
+
+---
+
+## 🛠️ Featured Projects
+
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| [**Fruitley**](https://www.fruitley.in) | `Next.js` `Node.js` `MongoDB` `Tailwind` | Healthy food ordering platform with real-time orders & PhonePe integration. |
+| [**AI Tic Tac Toe**](https://ai-ttt-xi.vercel.app) | `React` `OpenAI API` | Interactive AI-powered game with custom animations. |
+| [**Netflix Clone**](https://netflix-clone-seven-liard.vercel.app/) | `React` `TMDB API` | Feature-rich clone with responsive design & dynamic data fetching. |
+
+---
+
+## 🛡️ Technical Skills
+
+**Languages:** C/C++, Python, JavaScript, HTML/CSS  
+**Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, GSAP  
+**Backend:** Node.js, Express.js, Django, FastAPI  
+**AI/ML:** TensorFlow, PyTorch, LangChain, HuggingFace  
+**Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+**Tools:** Docker, Git, AWS, Postman, VS Code  
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Research+%26+Innovation">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Research+%26+Innovation">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Research+%26+Innovation" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,go,react,vue,nextjs,nuxtjs,tailwind,nodejs,express,django,tensorflow,pytorch,mongodb,postgresql,mysql,docker,aws,git&theme=dark" />
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td>
+## 🌍 Community Leadership
+
+**Joint Secretary, Linux User Group — TIET** *(Aug 2024 – Present)*  
+- Conducted **workshops** on Generative AI, Git/GitHub, Full Stack Dev, and DSA.  
+- Mentored **100+ students** in AI, full stack, and cybersecurity.  
+- Initiated **Open-Source Series** to guide students for GSoC & beyond.  
+- Built a **500+ member active tech community**.
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/0504ankitsharma"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0366D6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:0504ankitsharma@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email-0366D6?style=for-the-badge&logo=mail&logoColor=white"></a>
+  <a href="https://github.com/0504ankitsharma"><img src="https://custom-icon-badges.demolab.com/badge/-GitHub-0366D6?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<!-- FOOTER -->
 <div align="center">
-<h3>🧬 Federated Learning Research</h3>
-<img src="https://img.shields.io/badge/-Healthcare%20ML-0366D6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Decentralized%20Systems-0366D6?style=for-the-badge" />
-
-```javascript
-const researchProject = {
-  mentors: [
-    "Dr. Anjula Mehto",
-    "Mukta Sharma"
-  ],
-  achievements: [
-    "AP2PFL method development",
-    "57% accuracy achievement",
-    "CNN feature extraction",
-    "FedAvg implementation"
-  ],
-  impact: "Advancing decentralized healthcare"
-};
-```
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0366d6,100:00B4DB&section=footer" />
 </div>
-</td>
-
-<td>
-<div align="center">
-<h3>🤖 ThaparGPT</h3>
-<img src="https://img.shields.io/badge/-LLM%20Integration-0366D6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-RAG%20Architecture-0366D6?style=for-the-badge" />
-
-```javascript
-const aiProject = {
-  stack: [
-    "Nuxt.js", "Vue.js", "FastAPI"
-  ],
-  features: [
-    "Multi-LLM integration",
-    "RAG with LangChain",
-    "Vector search (Pinecone)",
-    "Context-aware responses"
-  ],
-  deployment: "thapargpt.vercel.app"
-};
-```
-</div>
-</td>
-</tr>
-</table>
-
-<!-- Tech Stack Matrix -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Tech+Stack+Matrix">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Tech+Stack+Matrix">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Tech+Stack+Matrix" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,go&theme=dark" />
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-Frontend%20Development-000?style=for-the-badge&logoColor=white&logo=browser">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/-Frontend%20Development-fff?style=for-the-badge&logoColor=black&logo=browser">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Frontend%20Development-fff?style=for-the-badge&logoColor=black&logo=browser">
-  </picture>
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,threejs&theme=dark" />
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-AI%20%26%20Machine%20Learning-000?style=for-the-badge&logoColor=white&logo=robot">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/-AI%20%26%20Machine%20Learning-fff?style=for-the-badge&logoColor=black&logo=robot">
-    <img src="https://custom-icon-badges.demolab.com/badge/-AI%20%26%20Machine%20Learning-fff?style=for-the-badge&logoColor=black&logo=robot">
-  </picture>
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /> 
-  <code style="padding:5px;">LangChain</code> 
-  <code style="padding:5px;">HuggingFace</code>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-Backend%20%26%20DevOps-000?style=for-the-badge&logoColor=white&logo=server">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/-Backend%20%26%20DevOps-fff?style=for-the-badge&logoColor=black&logo=server">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Backend%20%26%20DevOps-fff?style=for-the-badge&logoColor=black&logo=server">
-  </picture>
-  <br>
-  <img src="https://skillicons.dev/icons?i=django,docker,aws,git&theme=dark" />
-</div>
-
-<!-- Community Leadership -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Community+Leadership">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Community+Leadership">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Community+Leadership" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://custom-icon-badges.demolab.com/badge/-Linux%20User%20Group%20@%20TIET-0366D6?style=for-the-badge&logoColor=white&logo=user-group" />
-</div>
-
-```javascript
-const leadershipRole = {
-    position: "Joint Secretary",
-    initiatives: [
-        "🚀 Led GenAI, Git/GitHub & Full Stack workshops",
-        "👥 Mentored 100+ students in tech projects",
-        "🌟 Initiated open-source awareness series",
-        "🎯 Guided GSOC preparation activities"
-    ],
-    impact: "Building a stronger tech community at TIET",
-    reach: "500+ active community members"
-};
-```
-
-<!-- Contact Section -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Let's+Connect">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Let's+Connect">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=500&lines=Let's+Connect" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://linkedin.com/in/0504ankitsharma">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0366D6?style=for-the-badge&logoColor=white&logo=linkedin" />
-  </a>
-  <a href="mailto:asharma15_be22@thapar.edu">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Email-0366D6?style=for-the-badge&logoColor=white&logo=mail" />
-  </a>
-  <a href="https://github.com/0504ankitsharma">
-    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-0366D6?style=for-the-badge&logoColor=white&logo=github" />
-  </a>
-</div>
-
-<!-- Footer -->
-<br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&
