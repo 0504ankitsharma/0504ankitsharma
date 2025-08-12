@@ -1,84 +1,62 @@
-<!-- =========================
-     Ankit Sharma — README
-     Theme: MARVEL (red ✦ black ✦ bold)
-     Content: preserved exactly as provided
-     ========================= -->
-
-<!-- HEADER / MARVEL STYLE -->
+<!-- HEADER -->
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ankit%20Sharma&fontAlign=50&fontAlignY=40&color=0:ed1d24,100:000000&fontSize=80&desc=Final%20Year%20CSE%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=50&descAlignY=68&descSize=20&animation=fadeIn"
-    alt="Ankit Sharma — Marvel Theme" />
-  <p align="center" style="margin-top:8px;">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=760&lines=Final+Year+Engineer+Building+Cool+Stuff;AI+That+Actually+Works;Full+Stack+Apps+That+Scale"
-      alt="subtitle" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ankit%20Sharma&fontAlign=50&fontAlignY=40&color=0:ff6ec7,100:00f0ff&fontSize=80&desc=Final%20Year%20CSE%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=50&descAlignY=65&descSize=22&animation=fadeIn" />
 </div>
 
+<!-- DYNAMIC SUBTITLE -->
 <p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About-ED1D24?style=for-the-badge&logo=ghost&logoColor=white"></a>
-  <a href="#work-experience"><img src="https://img.shields.io/badge/Experience-000000?style=for-the-badge&logo=briefcase&logoColor=white"></a>
-  <a href="#signature-projects"><img src="https://img.shields.io/badge/Projects-ED1D24?style=for-the-badge&logo=rocket&logoColor=white"></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-000000?style=for-the-badge&logo=tools&logoColor=white"></a>
-  <a href="#lets-connect"><img src="https://img.shields.io/badge/Contact-ED1D24?style=for-the-badge&logo=mail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00f0ff&center=true&vCenter=true&width=750&lines=Final+Year+Engineer+Building+Cool+Stuff;AI+That+Actually+Works;Full+Stack+Apps+That+Scale" />
 </p>
 
-<!-- MARVEL DIVIDER -->
-<p align="center">
-  <img alt="marvel-divider" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/gradient-3.png" width="100%" />
-</p>
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 ## ⚡ About Me
 I’m **Ankit Sharma**, a final year Computer Engineering student at **TIET**.  
 I work at the crossroads of **AI, full-stack development, and scalable systems** — taking ideas from concept to fully deployed products.
 
-> 💡 *"If it can’t handle real users, it’s not done yet."*
+💡 *"If it can’t handle real users, it’s not done yet."*  
 
 ---
 
 ## 💼 Work Experience
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<table width="100%" style="max-width:1100px">
-  <tr>
+### 🚀 AICTE (Delhi HQ) — Software Engineering Intern  
+**Dec 2024 – Jan 2025**  
+- Contributed to development and testing of a **real-time messaging middleware** using Erlang, Elixir, and FreeBSD.  
+- Integrated **video calling** into a cross-platform React Native app using Jitsi Meet, WebRTC, and XMPP.  
+- Assisted in writing and debugging **XMPP modules** for distributed message routing.  
+- Collaborated with senior engineers to **benchmark performance** under high throughput scenarios.
 
-    <td valign="top" width="50%" style="padding: 10px;">
-      <div style="border-radius:12px; padding:16px; background: linear-gradient(180deg, rgba(237,29,36,0.06), rgba(0,0,0,0.02)); box-shadow: 0 8px 24px rgba(0,0,0,0.18);">
-        <h3 style="margin:6px 0; color:#ed1d24;">🚀 AICTE (Delhi HQ) — Software Engineering Intern</h3>
-        <p style="margin:4px 0; font-weight:600;">Dec 2024 – Jan 2025</p>
-        <ul>
-          <li>Contributed to development and testing of a <strong>real-time messaging middleware</strong> using Erlang, Elixir, and FreeBSD.</li>
-          <li>Integrated <strong>video calling</strong> into a cross-platform React Native app using Jitsi Meet, WebRTC, and XMPP.</li>
-          <li>Assisted in writing and debugging <strong>XMPP modules</strong> for distributed message routing.</li>
-          <li>Collaborated with senior engineers to <strong>benchmark performance</strong> under high throughput scenarios.</li>
-        </ul>
-      </div>
-    </td>
+</td>
+<td width="50%">
 
-    <td valign="top" width="50%" style="padding: 10px;">
-      <div style="border-radius:12px; padding:16px; background: linear-gradient(180deg, rgba(0,0,0,0.03), rgba(237,29,36,0.02)); box-shadow: 0 8px 24px rgba(0,0,0,0.18);">
-        <h3 style="margin:6px 0; color:#ed1d24;">🤖 Binary Technologies (Fretbox) — AI Developer Intern</h3>
-        <p style="margin:4px 0; font-weight:600;">Aug 2024 – Nov 2024</p>
-        <ul>
-          <li>Enhanced <strong>React.js frontend performance</strong> for key modules, reducing page load time by <strong>40%</strong>.</li>
-          <li>Developed <strong>AI-powered features</strong> for residential and hostel automation workflows.</li>
-          <li>Optimized <strong>React Table components</strong> for faster data rendering, improving UX and performance by <strong>35%</strong>.</li>
-          <li>Collaborated with the AI team to build <strong>intelligent UI elements</strong>, increasing user engagement by <strong>30%</strong>.</li>
-        </ul>
-      </div>
-    </td>
+### 🤖 Binary Technologies (Fretbox) — AI Developer Intern  
+**Aug 2024 – Nov 2024**  
+- Enhanced **React.js frontend performance** for key modules, reducing page load time by **40%**.  
+- Developed **AI-powered features** for residential and hostel automation workflows.  
+- Optimized **React Table components** for faster data rendering, improving UX and performance by **35%**.  
+- Collaborated with the AI team to build **intelligent UI elements**, increasing user engagement by **30%**.
 
-  </tr>
+</td>
+</tr>
 </table>
-
-</div>
 
 ---
 
 ## 🚀 Signature Projects
-*(Content preserved exactly — live links included)*
 
 ### 🩵 **ThaparGPT** — AI-Powered Campus Chatbot  
 **Nuxt.js · Vue.js · FastAPI · LangChain · Pinecone · Firebase**  
@@ -104,8 +82,18 @@ I work at the crossroads of **AI, full-stack development, and scalable systems**
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,go,react,vue,nextjs,nuxtjs,tailwind,nodejs,express,django,tensorflow,pytorch,mongodb,postgresql,mysql,docker,aws,git&theme=dark" alt="tech icons"/>
-  <p style="opacity:0.9; margin-top:8px;">Languages · Frontend · Backend & AI · Databases · DevOps</p>
+  
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,cpp,js,go&theme=dark" /><br>
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,threejs,gsap&theme=dark" /><br>
+
+**Backend & AI**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,tensorflow,pytorch&theme=dark" /> <code>LangChain</code> <code>HuggingFace</code><br>
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,aws,git,postgresql,mongodb,mysql,firebase&theme=dark" />
 </div>
 
 ---
@@ -114,21 +102,18 @@ I work at the crossroads of **AI, full-stack development, and scalable systems**
 **Joint Secretary — Linux User Group (TIET)**  
 - Spearheaded the **Open-Source Series**, guiding students toward contributions in projects and programs like GSoC.  
 - Conducted **hands-on workshops** on Generative AI, Git/GitHub, Full Stack Development, and DSA.  
-- Mentored peers on cybersecurity, full stack, and AI/ML projects, fostering **technical growth and collaboration**.
+- Mentored peers on cybersecurity, full stack, and AI/ML projects, fostering **technical growth and collaboration**.  
 
 ---
 
 ## 📬 Let’s Connect
 <p align="center">
-  <a href="https://linkedin.com/in/0504ankitsharma"><img src="https://img.shields.io/badge/LinkedIn-ED1D24?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:0504ankitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-ED1D24?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/0504ankitsharma"><img src="https://img.shields.io/badge/GitHub-ED1D24?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://linkedin.com/in/0504ankitsharma"><img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:0504ankitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/0504ankitsharma"><img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:ed1d24,100:000000&section=footer" alt="wave"/>
-  <br>
-  <small style="opacity:0.75">Assembled like an Avenger — content preserved from official resume.</small>
-</p>
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff6ec7,100:00f0ff&section=footer" />
+</div>
