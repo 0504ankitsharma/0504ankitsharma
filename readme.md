@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ankit%20Sharma&fontSize=80&color=0:0366d6,100:00B4DB&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Researcher&descAlignY=65&descSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ankit%20Sharma&fontAlign=50&fontAlignY=40&color=0:0366d6,100:00B4DB&fontSize=80&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Researcher&descAlign=50&descAlignY=65&descSize=22&animation=fadeIn" />
 </div>
 
 <!-- DYNAMIC SUBTITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=650&lines=Turning+Ideas+into+Scalable+Solutions;Full+Stack+Developer+%7C+Generative+AI+Specialist;Researcher+in+Federated+Learning+and+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4DB&center=true&vCenter=true&width=750&lines=Building+Scalable+AI+Solutions;Merging+Research+%26+Engineering;Turning+Ideas+into+Impactful+Products" />
 </p>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ANIMATED CONTRIBUTION GRAPH -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -19,10 +19,11 @@
 
 ---
 
-## 🚀 About Me
-I’m **Ankit Sharma**, a pre-final year Computer Engineering student at **Thapar Institute of Engineering & Technology**, passionate about building **scalable applications**, integrating **Generative AI**, and conducting research in **Federated Learning**.
+## 🌟 About Me
+> "Technology is the bridge between ideas and reality — I love building that bridge."
 
-📌 **Core Expertise:** Full Stack Development, AI/ML, Generative AI, RAG Architecture, Cloud Deployments.
+I’m **Ankit Sharma**, a **pre-final year Computer Engineering student** at *Thapar Institute of Engineering & Technology*, passionate about **Generative AI**, **Full Stack Development**, and **Federated Learning research**.  
+From scaling real-time systems to crafting AI-driven products, my goal is **to innovate at the intersection of AI & software engineering**.
 
 ---
 
@@ -32,22 +33,20 @@ I’m **Ankit Sharma**, a pre-final year Computer Engineering student at **Thapa
 <tr>
 <td width="50%">
 
-### **AICTE (Delhi HQ) — Software Engineering Intern**
-*Dec 2024 – Jan 2025*
-- Developed a **real-time messaging middleware** using Erlang, Elixir & FreeBSD.
-- Integrated **WebRTC video calling** in a cross-platform React Native app.
-- Wrote & debugged **XMPP modules** for distributed routing.
-- Benchmarked performance for **4M+ messages/sec**.
+#### 🚀 AICTE — Software Engineering Intern  
+*Dec 2024 – Jan 2025*  
+- Engineered **real-time messaging middleware** (`Erlang`, `Elixir`, `FreeBSD`) for **4M+ messages/sec** throughput.  
+- Integrated **WebRTC video calling** into React Native apps with Jitsi Meet & XMPP.  
+- Built & debugged **distributed message routing modules**.  
 
 </td>
 <td width="50%">
 
-### **Binary Technologies (Fretbox) — AI Developer Intern**
-*Aug 2024 – Nov 2024*
-- Reduced **frontend load time by 40%** in React.js modules.
-- Built **AI-powered automation features** for residential & hostel workflows.
-- Improved **data visualization performance by 35%**.
-- Boosted user engagement by **30%** via intelligent UI elements.
+#### 🤖 Binary Technologies (Fretbox) — AI Developer Intern  
+*Aug 2024 – Nov 2024*  
+- Reduced React.js load times **by 40%** and boosted rendering speed **by 35%**.  
+- Built **AI-powered features** increasing user engagement **by 30%**.  
+- Designed intelligent UI elements for **automation workflows**.  
 
 </td>
 </tr>
@@ -57,61 +56,73 @@ I’m **Ankit Sharma**, a pre-final year Computer Engineering student at **Thapa
 
 ## 🧪 Research & Innovation
 
-### **Federated Learning for Healthcare**
-- Mentors: *Dr. Anjula Mehto* & *Mukta Sharma*.
-- Designed **AP2PFL** method for decentralized healthcare data.
-- Implemented **CNN-based feature extraction** + **FedAvg aggregation**.
-- Achieved **57% accuracy**, outperforming baseline FL models.
+### 🩺 Federated Learning in Healthcare
+- Developed **AP2PFL** for decentralized patient data learning.
+- CNN-based **feature extraction** + **FedAvg aggregation**.
+- Achieved **57% accuracy**, surpassing baseline FL models.
 
-### **ThaparGPT — LLM-Powered Campus Chatbot**
-- Tech Stack: `Nuxt.js` `Vue.js` `FastAPI` `LangChain` `Pinecone` `Firebase`
-- Integrated multiple LLMs (**OpenAI, Anthropic, Groq, Gemini, Mistral, Phi-3**).
-- Built **RAG pipeline** for context-aware query responses.
-- Deployed on [Vercel](https://thapargpt.vercel.app) & Hugging Face.
-
----
-
-## 🛠️ Featured Projects
-
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| [**Fruitley**](https://www.fruitley.in) | `Next.js` `Node.js` `MongoDB` `Tailwind` | Healthy food ordering platform with real-time orders & PhonePe integration. |
-| [**AI Tic Tac Toe**](https://ai-ttt-xi.vercel.app) | `React` `OpenAI API` | Interactive AI-powered game with custom animations. |
-| [**Netflix Clone**](https://netflix-clone-seven-liard.vercel.app/) | `React` `TMDB API` | Feature-rich clone with responsive design & dynamic data fetching. |
+### 💬 ThaparGPT — Multi-LLM Campus Chatbot
+- Stack: `Nuxt.js` `Vue.js` `FastAPI` `LangChain` `Pinecone` `Firebase`  
+- Integrated **6+ LLMs** (OpenAI, Anthropic, Groq, Gemini, Mistral, Phi-3).  
+- Built **RAG pipeline** for context-aware responses.  
+- Live: [thapargpt.vercel.app](https://thapargpt.vercel.app)  
 
 ---
 
-## 🛡️ Technical Skills
+## 📌 Featured Projects
 
-**Languages:** C/C++, Python, JavaScript, HTML/CSS  
-**Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, GSAP  
-**Backend:** Node.js, Express.js, Django, FastAPI  
-**AI/ML:** TensorFlow, PyTorch, LangChain, HuggingFace  
-**Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
-**Tools:** Docker, Git, AWS, Postman, VS Code  
+| Preview | Project | Tech Stack | Highlights |
+|---------|---------|------------|------------|
+| 🥗 | [**Fruitley**](https://www.fruitley.in) | `Next.js` `MongoDB` `Tailwind` | Real-time food ordering, PhonePe integration, admin dashboards |
+| 🎮 | [**AI Tic Tac Toe**](https://ai-ttt-xi.vercel.app) | `React` `OpenAI API` | AI-powered gameplay with custom animations |
+| 🎬 | [**Netflix Clone**](https://netflix-clone-seven-liard.vercel.app/) | `React` `TMDB API` | Dynamic movie fetching, responsive design |
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,go,react,vue,nextjs,nuxtjs,tailwind,nodejs,express,django,tensorflow,pytorch,mongodb,postgresql,mysql,docker,aws,git&theme=dark" />
+  
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,cpp,js,go&theme=dark" /><br>
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,tailwind,threejs,gsap&theme=dark" /><br>
+
+**Backend & AI**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,tensorflow,pytorch&theme=dark" /> <code>LangChain</code> <code>HuggingFace</code><br>
+
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,aws,git,postgresql,mongodb,mysql,firebase&theme=dark" />
 </div>
 
 ---
 
 ## 🌍 Community Leadership
+**Joint Secretary — Linux User Group (TIET)**  
+- Led **GenAI, Git/GitHub, Full Stack** workshops for 100+ students.  
+- Mentored peers in **AI, cybersecurity, and open-source**.  
+- Founded **Open-Source Series** for GSoC guidance.  
 
-**Joint Secretary, Linux User Group — TIET** *(Aug 2024 – Present)*  
-- Conducted **workshops** on Generative AI, Git/GitHub, Full Stack Dev, and DSA.  
-- Mentored **100+ students** in AI, full stack, and cybersecurity.  
-- Initiated **Open-Source Series** to guide students for GSoC & beyond.  
-- Built a **500+ member active tech community**.
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0504ankitsharma&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0504ankitsharma&theme=tokyonight&hide_border=true" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0504ankitsharma&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
 
 ## 📬 Let’s Connect
-
 <p align="center">
-  <a href="https://linkedin.com/in/0504ankitsharma"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0366D6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:0504ankitsharma@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Email-0366D6?style=for-the-badge&logo=mail&logoColor=white"></a>
-  <a href="https://github.com/0504ankitsharma"><img src="https://custom-icon-badges.demolab.com/badge/-GitHub-0366D6?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/0504ankitsharma"><img src="https://img.shields.io/badge/LinkedIn-0366D6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:0504ankitsharma@gmail.com"><img src="https://img.shields.io/badge/Email-0366D6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/0504ankitsharma"><img src="https://img.shields.io/badge/GitHub-0366D6?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <!-- FOOTER -->
