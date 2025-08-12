@@ -19,10 +19,8 @@
 
 ---
 
-## ⚡ About Me
-I’m **Ankit Sharma**, a final year Computer Engineering student at **TIET**.  
-I work at the crossroads of **AI, full-stack development, and scalable systems** — taking ideas from concept to fully deployed products.
-
+## ⚡ About Me 
+Hello everyone, I am **Ankit**, a final year undergrad at **Thapar University**. I have always been fascinated with how technology influences and shapes our world. Coding is something that truly excites me. I have a keen interest in problem solving and software development technologies and hence I'm passionate about diving into the world of programming.
 💡 *"If it can’t handle real users, it’s not done yet."*  
 
 ---
