@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ankit+%F0%9F%91%8B;Associate+Product+Manager+%40+Fitelo;I+ship+AI+products%2C+not+just+decks;RAG+by+day%2C+patents+by+night+%F0%9F%98%84" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ankit+%F0%9F%91%8B;Associate+Product+Manager+%40+Fitelo;I+ship+AI+products%2C+not+just+decks" alt="Typing SVG" />
 
 ### Building AI products people actually use — and occasionally shipping the code myself so PMs stop lying to engineers about "how hard" something is.
 
