@@ -83,16 +83,6 @@ Currently at **Fitelo** (AI Healthtech), turning "personalized health recommenda
 
 ---
 
-## 🚀 Projects Worth a Look
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[GetYouPlaced](https://github.com/0504ankitsharma)** | AI cold-outreach platform that writes personalized emails so you don't have to sound like a robot (ironically, using a robot) | Next.js, Prisma, Gemini, Redis |
-| **[SubSearch](https://github.com/0504ankitsharma)** | Semantic Reddit search — finds posts by *meaning*, not keywords, because "best pizza NYC" shouldn't miss the guy who just said "life-changing slice" | FastAPI, ChromaDB, Sentence-Transformers |
-| **AP2PFL Research** | Federated learning that beats standard FedAvg by 12% on messy, non-IID healthcare data | PyTorch, CNN, FedAvg |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
